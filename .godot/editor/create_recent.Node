@@ -1,0 +1,7 @@
+CollisionShape2D
+Area2D
+Label
+CanvasLayer
+Camera2D
+CharacterBody2D
+TileMap

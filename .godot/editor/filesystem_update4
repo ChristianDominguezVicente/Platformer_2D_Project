@@ -1,0 +1,8 @@
+res://Level1.tscn
+res://Level1.tres
+res://Player.gd
+res://Enemy.gd
+res://Spikes.gd
+res://Coin.gd
+res://EndFlag.gd
+res://Level2.tscn
